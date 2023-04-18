@@ -67,7 +67,6 @@
     <Compile Include="Assets\scripts\win.cs" />
     <Compile Include="Assets\scripts\vaza.cs" />
     <Compile Include="Assets\scripts\vihod.cs" />
-    <Compile Include="Assets\scripts\traps.cs" />
     <Compile Include="Assets\scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\scripts\killing_floor.cs" />
     <Compile Include="Assets\scripts\teleport.cs" />
